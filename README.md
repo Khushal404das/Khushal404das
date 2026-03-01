@@ -40,12 +40,6 @@ Web Development • Artificial Intelligence • Machine Learning • Python Auto
 | <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/> <img src="https://skillicons.dev/icons?i=pytorch" width="40"/> <img src="https://skillicons.dev/icons?i=scikitlearn" width="40"/> <img src="https://cdn.simpleicons.org/pandas" width="40"/> <img src="https://cdn.simpleicons.org/numpy" width="40"/> | <img src="https://skillicons.dev/icons?i=aws" width="40"/> <img src="https://skillicons.dev/icons?i=azure" width="40"/> <img src="https://skillicons.dev/icons?i=gcp" width="40"/> <img src="https://skillicons.dev/icons?i=docker" width="40"/> <img src="https://skillicons.dev/icons?i=jenkins" width="40"/> | <img src="https://skillicons.dev/icons?i=git" width="40"/> <img src="https://skillicons.dev/icons?i=github" width="40"/> <img src="https://skillicons.dev/icons?i=postman" width="40"/> <img src="https://skillicons.dev/icons?i=jira" width="40"/> <img src="https://skillicons.dev/icons?i=linux" width="40"/> <img src="https://skillicons.dev/icons?i=selenium" width="40"/> |
 
 ---
-
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5a0&height=100&section=footer" width="100%" />
-</div>
 ## 📊 GitHub Statistics
 
 <div align="center">
