@@ -31,45 +31,52 @@ Web Development • Artificial Intelligence • Machine Learning • Python Auto
 
 ### 💻 Tech Stack
 
-| Mobile / App Development | Web / Frontend | Backend / Frameworks | Databases |
-|-------------------------|----------------|---------------------|-----------|
-| <img src="https://skillicons.dev/icons?i=flutter" width="40"/> <img src="https://skillicons.dev/icons?i=dart" width="40"/> <img src="https://skillicons.dev/icons?i=kotlin" width="40"/> <img src="https://skillicons.dev/icons?i=java" width="40"/> | <img src="https://skillicons.dev/icons?i=html" width="40"/> <img src="https://skillicons.dev/icons?i=css" width="40"/> <img src="https://skillicons.dev/icons?i=js" width="40"/> <img src="https://skillicons.dev/icons?i=figma" width="40"/> | <img src="https://skillicons.dev/icons?i=django" width="40"/> <img src="https://skillicons.dev/icons?i=flask" width="40"/> <img src="https://skillicons.dev/icons?i=php" width="40"/> <img src="https://skillicons.dev/icons?i=py" width="40"/> | <img src="https://skillicons.dev/icons?i=mysql" width="40"/> <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> <img src="https://skillicons.dev/icons?i=sqlite" width="40"/> |
+| Languages | Web / Frontend | Backend / Frameworks | Databases |
+|-----------|----------------|----------------------|-----------|
+| <img src="https://skillicons.dev/icons?i=python" width="40"/> <img src="https://skillicons.dev/icons?i=c" width="40"/> <img src="https://skillicons.dev/icons?i=cpp" width="40"/> <img src="https://skillicons.dev/icons?i=cs" width="40"/> <img src="https://skillicons.dev/icons?i=java" width="40"/> <img src="https://skillicons.dev/icons?i=php" width="40"/> <img src="https://skillicons.dev/icons?i=rust" width="40"/> | <img src="https://skillicons.dev/icons?i=html" width="40"/> <img src="https://skillicons.dev/icons?i=css" width="40"/> <img src="https://skillicons.dev/icons?i=js" width="40"/> <img src="https://skillicons.dev/icons?i=tailwind" width="40"/> <img src="https://skillicons.dev/icons?i=figma" width="40"/> | <img src="https://skillicons.dev/icons?i=flask" width="40"/> <img src="https://skillicons.dev/icons?i=fastapi" width="40"/> <img src="https://skillicons.dev/icons?i=laravel" width="40"/> <img src="https://skillicons.dev/icons?i=dotnet" width="40"/> <img src="https://skillicons.dev/icons?i=wordpress" width="40"/> | <img src="https://skillicons.dev/icons?i=mysql" width="40"/> <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> <img src="https://skillicons.dev/icons?i=sqlite" width="40"/> <img src="https://skillicons.dev/icons?i=firebase" width="40"/> |
 
-| ML / AI / Data Science | DevOps / Tools | System / Languages |
-|----------------------|----------------|-------------------|
-| <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/> <img src="https://skillicons.dev/icons?i=scikitlearn" width="40"/> <img src="https://cdn.simpleicons.org/pandas" width="40"/> <img src="https://cdn.simpleicons.org/numpy" width="40"/> | <img src="https://skillicons.dev/icons?i=docker" width="40"/> <img src="https://skillicons.dev/icons?i=git" width="40"/> <img src="https://skillicons.dev/icons?i=postman" width="40"/> | <img src="https://skillicons.dev/icons?i=c" width="40"/> <img src="https://skillicons.dev/icons?i=cpp" width="40"/> <img src="https://skillicons.dev/icons?i=cs" width="40"/> <img src="https://skillicons.dev/icons?i=linux" width="40"/> <img src="https://skillicons.dev/icons?i=bash" width="40"/> |
+| ML / AI / Data Science | Cloud / DevOps | Tools |
+|------------------------|----------------|-------|
+| <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/> <img src="https://skillicons.dev/icons?i=pytorch" width="40"/> <img src="https://skillicons.dev/icons?i=scikitlearn" width="40"/> <img src="https://cdn.simpleicons.org/pandas" width="40"/> <img src="https://cdn.simpleicons.org/numpy" width="40"/> | <img src="https://skillicons.dev/icons?i=aws" width="40"/> <img src="https://skillicons.dev/icons?i=azure" width="40"/> <img src="https://skillicons.dev/icons?i=gcp" width="40"/> <img src="https://skillicons.dev/icons?i=docker" width="40"/> <img src="https://skillicons.dev/icons?i=jenkins" width="40"/> | <img src="https://skillicons.dev/icons?i=git" width="40"/> <img src="https://skillicons.dev/icons?i=github" width="40"/> <img src="https://skillicons.dev/icons?i=postman" width="40"/> <img src="https://skillicons.dev/icons?i=jira" width="40"/> <img src="https://skillicons.dev/icons?i=linux" width="40"/> <img src="https://skillicons.dev/icons?i=selenium" width="40"/> |
 
+---
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5a0&height=100&section=footer" width="100%" />
+</div>
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
+
   <img height="180em" src="https://streak-stats.demolab.com/?user=Khushal404das&theme=onedark&hide_border=true" alt="GitHub Streak" />
-  
+
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  
-  <img src="https://komarev.com/ghpvc/?username=Khushal404das&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  
+
+  <img src="https://komarev.com/ghpvc/?username=Khushal404das&label=Profile%20Views&color=00e5a0&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  
+
   <img src="https://img.shields.io/github/followers/Khushal404das?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=1f6feb" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Khushal404das?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=fbbf24" alt="Total Stars" />
-  
+
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  
+
   <img src="https://img.shields.io/github/last-commit/Khushal404das/Khushal404das?label=Last%20Update&style=for-the-badge&logo=github&logoColor=white&color=8b5cf6" alt="Last Update" />
-  
+
 </div>
 
 <div align="center">
-  
+
   ![snake gif](https://github.com/Khushal404das/Khushal404das/blob/output/github-snake-dark.svg)
-  
+
 </div>
 
 <div align="center">
