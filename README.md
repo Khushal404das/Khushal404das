@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Khushal Das</h1>
-<h3 align="center">Full Stack Web Developer | AI, ML & Computer Vision Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer | AI, ML & Computer Vision Engineer</h3>
 <p align="center">
 Web Development • Artificial Intelligence • Machine Learning • Python Automation
 </p>
