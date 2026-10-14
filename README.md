@@ -2,7 +2,7 @@
   <img src="github.png?type=waving&color=00e5a0&height=200&section=header&text=Khushal%20Das&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Khushal Das</h1>
+<h1 align=" center">Hi 👋, I'm Khushal Das</h1>
 <h3 align="center">Full Stack Web Developer | AI, ML & Computer Vision Engineer</h3>
 <p align="center">
 Web Development • Artificial Intelligence • Machine Learning • Python Automation
